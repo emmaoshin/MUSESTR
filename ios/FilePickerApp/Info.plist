@@ -48,5 +48,11 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>NSDocumentsFolderUsageDescription</key>
+	<string>This app requires access to the documents folder to select files.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app requires access to the photo library to select images.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app requires camera access to take photos.</string>
 </dict>
 </plist>
